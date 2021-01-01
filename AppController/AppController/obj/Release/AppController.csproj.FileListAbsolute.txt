@@ -7,3 +7,12 @@ C:\Users\GS\source\repos\AppController\AppController\obj\Release\AppController.c
 C:\Users\GS\source\repos\AppController\AppController\obj\Release\AppController.exe
 C:\Users\GS\source\repos\AppController\AppController\obj\Release\AppController.pdb
 C:\Users\GS\source\repos\AppController\AppController\obj\Release\AppController.csprojAssemblyReference.cache
+C:\Users\GS\Documents\GitHub\WindowsServices\AppController\AppController\bin\Release\AppController.exe.config
+C:\Users\GS\Documents\GitHub\WindowsServices\AppController\AppController\bin\Release\AppController.exe
+C:\Users\GS\Documents\GitHub\WindowsServices\AppController\AppController\bin\Release\AppController.pdb
+C:\Users\GS\Documents\GitHub\WindowsServices\AppController\AppController\obj\Release\AppController.csprojAssemblyReference.cache
+C:\Users\GS\Documents\GitHub\WindowsServices\AppController\AppController\obj\Release\AppController.Installer.resources
+C:\Users\GS\Documents\GitHub\WindowsServices\AppController\AppController\obj\Release\AppController.csproj.GenerateResource.cache
+C:\Users\GS\Documents\GitHub\WindowsServices\AppController\AppController\obj\Release\AppController.csproj.CoreCompileInputs.cache
+C:\Users\GS\Documents\GitHub\WindowsServices\AppController\AppController\obj\Release\AppController.exe
+C:\Users\GS\Documents\GitHub\WindowsServices\AppController\AppController\obj\Release\AppController.pdb

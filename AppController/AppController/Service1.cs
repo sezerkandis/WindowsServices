@@ -12,6 +12,10 @@ namespace AppController
         public Service1()
         {
             InitializeComponent();
+
+            /// write following command on cmd to install service (run cmd as an administator)
+            /// cd C:\Windows\Microsoft.NET\Framework\v4.0.30319>
+            /// InstallUtil.exe C:\Users\SK\source\repos\AppController\AppController\bin\Release\AppController.exe (change to your build path)
         }
 
         Timer timer = new Timer();
