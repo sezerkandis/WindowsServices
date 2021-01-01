@@ -1,0 +1,7 @@
+C:\Users\GS\source\repos\AppController\AppController\bin\Debug\AppController.exe.config
+C:\Users\GS\source\repos\AppController\AppController\bin\Debug\AppController.exe
+C:\Users\GS\source\repos\AppController\AppController\bin\Debug\AppController.pdb
+C:\Users\GS\source\repos\AppController\AppController\obj\Debug\AppController.csprojAssemblyReference.cache
+C:\Users\GS\source\repos\AppController\AppController\obj\Debug\AppController.csproj.CoreCompileInputs.cache
+C:\Users\GS\source\repos\AppController\AppController\obj\Debug\AppController.exe
+C:\Users\GS\source\repos\AppController\AppController\obj\Debug\AppController.pdb

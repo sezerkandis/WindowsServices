@@ -1,0 +1,138 @@
+﻿Installing assembly 'C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.InstallLog
+   assemblypath = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe assembly.
+Committing assembly 'C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.InstallLog
+   assemblypath = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.InstallLog
+   assemblypath = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.InstallLog
+   assemblypath = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe
+Installing assembly 'C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.InstallLog
+   assemblypath = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.InstallLog
+   assemblypath = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.InstallLog
+   assemblypath = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.InstallLog
+   assemblypath = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.InstallLog
+   assemblypath = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.InstallLog
+   assemblypath = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.InstallLog
+   assemblypath = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe
+Uninstalling assembly 'C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.InstallLog
+   assemblypath = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.InstallLog
+   assemblypath = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.InstallLog
+   assemblypath = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe
+Uninstalling assembly 'C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.InstallLog
+   assemblypath = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.InstallLog
+   assemblypath = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.InstallLog
+   assemblypath = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe
+Installing assembly 'C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.InstallLog
+   assemblypath = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.InstallLog
+   assemblypath = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.InstallLog
+   assemblypath = C:\Users\GS\source\repos\AppController\AppController\bin\Release\AppController.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
